@@ -1,0 +1,5 @@
+streamlit
+opencv-python-headless
+numpy
+pillow
+tensorflow-cpu  # 🌟 Adds the lightweight machine learning brain to the cloud server
